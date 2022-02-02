@@ -70,6 +70,7 @@ faces=face_cascade.detectMultiScale(gray,1.1,4)
 
 #     if key==81 or key==113:
 #         break
+#hi
 
 
 image2=cv2.imread("2.jpg")
